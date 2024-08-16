@@ -21,7 +21,15 @@
 ###
 
 <p align="left">My name is Abner Josue Estrada I'm from Guatemala <br>
-  <br>- 🔭 I like to resolved challenges of programing <br>- 📚 I'm currently learning Angular <br>- ⚡ In my free time i like to review my code or create a differents projects </p>
+  <br> 
+    - 🔭 I like to resolved challenges of programing 
+  <br>
+    - 📚 I'm currently learning Angular 
+  <br>
+    - ⚡In my free time i like to review my code or create a differents projects 
+  <br>
+    - ⚡I have 4 years in experience as Software developer Engineer
+</p>
 
 ###
 
@@ -51,6 +59,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
