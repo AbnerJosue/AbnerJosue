@@ -24,7 +24,7 @@
   <br> 
     - 🔭 I like to resolved challenges of programing 
   <br>
-    - 📚 I'm currently learning Angular 
+    - 📚 I'm currently learning Angular and Java and ( Spring boot )
   <br>
     - ⚡In my free time i like to review my code or create a differents projects 
   <br>
