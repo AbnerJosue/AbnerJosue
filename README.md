@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is Abner Josue Estrada I'm from Guatemala and I'm Sofware developer Enginner <br>
+<p align="left">My name is Abner Josue Estrada I'm from Guatemala and I'm Sofware developer Engineer <br>
   <br> 
     - 🔭 I like to resolve challenges of programming 
   <br>
