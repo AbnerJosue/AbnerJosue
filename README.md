@@ -12,23 +12,23 @@
 
 ###
 
-<h1 align="center"> Hey Coders 👋</h1>
+<h1 align="center"> Hey Coders 👋  </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me </h3>
 
 ###
 
-<p align="left">My name is Abner Josue Estrada I'm from Guatemala <br>
+<p align="left">My name is Abner Josue Estrada I'm from Guatemala and I'm Sofware developer Enginner <br>
   <br> 
-    - 🔭 I like to resolved challenges of programing 
+    - 🔭 I like to resolve challenges of programming 
   <br>
     - 📚 I'm currently learning Angular and Java and ( Spring boot )
   <br>
-    - ⚡In my free time i like to review my code or create a differents projects 
+    - ⚡In my free time I like to review my code or create different projects 
   <br>
-    - ⚡I have 4 years in experience as Software developer Engineer
+    - ⚡I have 4 years of experience as a Software developer Engineer
 </p>
 
 ###
