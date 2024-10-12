@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center"> Hey Coders! 👋  </h1>
+<h1 align="center"> Hey Coders👋  </h1>
 
 ###
 
